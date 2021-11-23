@@ -12,7 +12,7 @@ In this page, you will be introduced to the SEPAL interface. You will learn how 
 
 .. warning::
 
-    **prerequites**
+    **prerequisites**
 
     -   Internet access
     -   SEPAL account (see ‘Getting Started')
