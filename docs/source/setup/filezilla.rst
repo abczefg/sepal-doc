@@ -51,7 +51,7 @@ Any file in Jupyterlab can be downloaded by right-clicking its name in the file 
 Rstudio
 ^^^^^^^
 
-In the SEPAL application dashboard, open a new Jupyter Notebook app.
+In the SEPAL application dashboard, open a new Rstudio app.
 
 From there The file menu (in red on the bellow image) enable you to work with files and directories on your system. This includes opening, creating, deleting, renaming and copying.
 
